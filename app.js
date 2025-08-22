@@ -9,12 +9,12 @@ let invoices = [];
 
 // Default doctor data
 const defaultDoctorInfo = {
-    name: "Dr. Daniele Miccichè",
-    address: "Corso Umbria, 10144, Torino",
-    piva: "13155780011",
-    cf: "MCCDNL98E26L219W",
+    name: "Dr. Pinco Pallino ",
+    address: "Indirizzo, CAP , Città, Provincia",
+    piva: "11 cifre",
+    cf: "codice fiscale",
     professional_title: "Medico-chirurgo",
-    medical_order: "O.M. Torino 27505"
+    medical_order: "O.M. Torino 00000"
 };
 
 // Legal text constants
